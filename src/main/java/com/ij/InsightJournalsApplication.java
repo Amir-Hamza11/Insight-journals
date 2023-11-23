@@ -1,0 +1,13 @@
+package com.ij;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InsightJournalsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InsightJournalsApplication.class, args);
+	}
+
+}
